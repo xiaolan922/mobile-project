@@ -8,6 +8,8 @@ import 'vant/lib/index.css'
 // rem基准值适配
 import 'amfe-flexible/index.min.js'
 
+import '@/assets/css/global.less'
+
 Vue.use(Vant)
 
 Vue.config.productionTip = false
